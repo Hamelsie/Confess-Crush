@@ -1,8 +1,7 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
     introTitle: 'HI😘 ',
-    introDesc: `20/10 VUI VẺ HẠNH PHÚC 
-    LUN TƯƠI CƯỜI VÀ XINH XINH ĐẸP ^_^',
+    introDesc: '20/10 VUI VẺ HẠNH PHÚC và xinh đẹp  ^_^',
     btnIntro: '^^OKLA^^',
     title: 'BAN IU THƯƠNG BẢN THÂN MÒ PHẢI KHUM 🥰',
     desc: 'BẮT BUỘC TRẢ LỜI ',
